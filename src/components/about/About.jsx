@@ -42,10 +42,8 @@ const About = () => {
         </div>
            
            <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Quam eum incidunt dolores debitis culpa soluta fugiat, 
-            veritatis quibusdam nam nulla voluptas eligendi porro unde facilis voluptates officia, 
-            beatae laudantium. Rerum?
+           I would like to pursue my career in a work environment that will utilize 
+           and reinforce my technical skills and abilities in a rapidly emerging IT Field.
            </p>
 
            <a href="#contact" className='btn btn-primary'>Lets Talk </a>
