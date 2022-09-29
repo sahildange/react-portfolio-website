@@ -40,16 +40,19 @@ header{
 }
 
 /* ----ME----- */
-
+.me img{
+    border-radius: 7%;
+}
 .me{
-    background: linear-gradient(var
-    (--color-primary)transparent);
-    width: 25rem;
-    height: 40rem;
-    position: absolute;
-    left: calc(50% - 11rem);
+    background: linear-gradient(var(--color-primary)transparent);
+    position: center;
+    height: 50rem;
+    width: 60rem;
+    /* left: calc(60% - 11rem); */
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 4rem;
-    border-radius: 12rem 12rem 0  0;
+    
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 
