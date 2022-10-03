@@ -12,9 +12,9 @@ const data = [
 {
   id: 1,
   image: IMG1, 
-  title: 'WILL BE DONE LATER',
-  github: 'https://github.com/sahildange?tab=projects',
-  demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+  title: 'Hotel Booking Website',
+  github: 'https://github.com/sahildange/Reactjs-Sahil-Hotel-Booking.git',
+  demo: 'https://drive.google.com/file/d/1DwD9s85Ms8qXweAOB-N_u9k3dYLf5Or6/view?usp=sharing'
 },
 {
   id: 2,
